@@ -1,3 +1,7 @@
+## homework from Northwestern University Data Science Bootcamp program.
+Please check this link for the final product:
+https://plotlyhomework.herokuapp.com
+
 # Belly Button Biodiversity
 
 ![Bacteria by filterforge.com](Images/bacteria_by_filterforgedotcom.jpg)
