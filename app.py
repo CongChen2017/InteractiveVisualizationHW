@@ -167,4 +167,4 @@ def samples(sample_name):
 
 # Script execution
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run()
